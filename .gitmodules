@@ -1,0 +1,3 @@
+[submodule "micro-react"]
+	path = micro-react
+	url = https://github.com/davidstevenst/micro-react.git
