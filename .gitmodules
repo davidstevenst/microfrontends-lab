@@ -1,3 +1,6 @@
 [submodule "micro-react"]
 	path = micro-react
 	url = https://github.com/davidstevenst/micro-react.git
+[submodule "migrate-cra"]
+	path = migrate-cra
+	url = https://github.com/davidstevenst/migrate-cra.git
